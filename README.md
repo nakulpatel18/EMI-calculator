@@ -54,9 +54,6 @@ This Excel-based **EMI Calculator** is designed to help users estimate monthly i
 - Ensure that Excel formulas are enabled to make the EMI logic work.
 - You may customize interest rates or add more schemes depending on your need.
 
----
 
-## 📧 Support
 
-For any issues or feature requests, feel free to raise them manually or contact your finance team managing this calculator.
 
